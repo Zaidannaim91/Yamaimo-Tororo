@@ -1,0 +1,25 @@
+{
+   "title":"[Yamaimo Tororo] Puppy's Rondo",
+   "description":"",
+   "author":"Yamaimo Tororo",
+   "artist":"Yamaimo Tororo",
+   "cover":"https://i.imgur.com/gTSwXLm.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/BXrRwEw"
+         },
+         "last_updated":1624606143,
+         "title":"Puppy's Rondo",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/piWb7ZC"
+         },
+         "last_updated":1624606143,
+         "title":"Endless Rondo",
+         "volume":"2"
+      }
+   }
+}
