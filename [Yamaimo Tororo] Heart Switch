@@ -1,0 +1,41 @@
+{
+   "title":"[Yamaimo Tororo] Heart Switch",
+   "description":"",
+   "author":"Yamaimo Tororo",
+   "artist":"Yamaimo Tororo",
+   "cover":"https://i.imgur.com/JvemHnR.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/UvW0qYU"
+         },
+         "last_updated":1624606143,
+         "title":"Heart Switch",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/XIP1tHc"
+         },
+         "last_updated":1624606143,
+         "title":"Heart Switch ~Teacher’s Troubles~",
+         "volume":"2"
+      },
+      "3":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/7Rdpe1f"
+         },
+         "last_updated":1624606143,
+         "title":"Heart Switch ~Teacher's Graduation~",
+         "volume":"3"
+      },
+      "4":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/WdNco8S"
+         },
+         "last_updated":1624606143,
+         "title":"Heart Switch ~The Other Side of an Honor Student~",
+         "volume":"4"
+      }
+   }
+}
